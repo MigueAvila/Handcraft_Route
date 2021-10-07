@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Application\\Handcraft_Route.Application.csproj": {}
+    "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Application\\Handcraft_Route.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Application\\Handcraft_Route.Application.csproj": {
+    "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Application\\Handcraft_Route.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Application\\Handcraft_Route.Application.csproj",
+        "projectUniqueName": "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Application\\Handcraft_Route.Application.csproj",
         "projectName": "Handcraft_Route.Application",
-        "projectPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Application\\Handcraft_Route.Application.csproj",
-        "packagesPath": "C:\\Users\\osori\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Application\\obj\\",
+        "projectPath": "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Application\\Handcraft_Route.Application.csproj",
+        "packagesPath": "C:\\Users\\AlmaPatricia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\osori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AlmaPatricia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj": {
-                "projectPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj"
+              "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj": {
+                "projectPath": "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj"
               },
-              "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\Handcraft_Route.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\Handcraft_Route.Infrastructure.csproj"
+              "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\Handcraft_Route.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\Handcraft_Route.Infrastructure.csproj"
               }
             }
           }
@@ -65,17 +65,17 @@
         }
       }
     },
-    "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj": {
+    "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj",
         "projectName": "Handcraft_Route.Domain",
-        "projectPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj",
-        "packagesPath": "C:\\Users\\osori\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\obj\\",
+        "projectPath": "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj",
+        "packagesPath": "C:\\Users\\AlmaPatricia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\osori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AlmaPatricia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -119,17 +119,17 @@
         }
       }
     },
-    "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\Handcraft_Route.Infrastructure.csproj": {
+    "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\Handcraft_Route.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\Handcraft_Route.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\Handcraft_Route.Infrastructure.csproj",
         "projectName": "Handcraft_Route.Infrastructure",
-        "projectPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\Handcraft_Route.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\osori\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\Handcraft_Route.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\AlmaPatricia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\osori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AlmaPatricia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -143,8 +143,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj": {
-                "projectPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj"
+              "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj": {
+                "projectPath": "C:\\Users\\AlmaPatricia\\Downloads\\home\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj"
               }
             }
           }
