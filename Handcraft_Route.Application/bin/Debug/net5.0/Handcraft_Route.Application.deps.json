@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Handcraft_Route.Application/1.0.0": {
+        "dependencies": {
+          "Handcraft_Route.Domain": "1.0.0",
+          "Handcraft_Route.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Handcraft_Route.Application.dll": {}
+        }
+      },
+      "Handcraft_Route.Domain/1.0.0": {
+        "runtime": {
+          "Handcraft_Route.Domain.dll": {}
+        }
+      },
+      "Handcraft_Route.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Handcraft_Route.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Handcraft_Route.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Handcraft_Route.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Handcraft_Route.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Handcraft_Route.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

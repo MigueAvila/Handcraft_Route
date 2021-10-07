@@ -1,0 +1,251 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Api\\Handcraft_Route.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Api\\Handcraft_Route.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Api\\Handcraft_Route.Api.csproj",
+        "projectName": "Handcraft_Route.Api",
+        "projectPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Api\\Handcraft_Route.Api.csproj",
+        "packagesPath": "C:\\Users\\osori\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\osori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Application\\Handcraft_Route.Application.csproj": {
+                "projectPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Application\\Handcraft_Route.Application.csproj"
+              },
+              "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj": {
+                "projectPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Application\\Handcraft_Route.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Application\\Handcraft_Route.Application.csproj",
+        "projectName": "Handcraft_Route.Application",
+        "projectPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Application\\Handcraft_Route.Application.csproj",
+        "packagesPath": "C:\\Users\\osori\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\osori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj": {
+                "projectPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj"
+              },
+              "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\Handcraft_Route.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\Handcraft_Route.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj",
+        "projectName": "Handcraft_Route.Domain",
+        "projectPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj",
+        "packagesPath": "C:\\Users\\osori\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\osori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\Handcraft_Route.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\Handcraft_Route.Infrastructure.csproj",
+        "projectName": "Handcraft_Route.Infrastructure",
+        "projectPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\Handcraft_Route.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\osori\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\osori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj": {
+                "projectPath": "C:\\Users\\osori\\OneDrive\\Documentos\\Visual Studio Code Projects\\Proyecto_Artesania\\Handcraft_Route\\Handcraft_Route.Domain\\Handcraft_Route.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
